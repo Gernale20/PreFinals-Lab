@@ -1,0 +1,13 @@
+C:\Users\ComputerLab4PC1\source\repos\05_Lab_Gernale\05_Lab_Gernale\bin\Debug\05_Lab_Gernale.exe.config
+C:\Users\ComputerLab4PC1\source\repos\05_Lab_Gernale\05_Lab_Gernale\bin\Debug\05_Lab_Gernale.exe
+C:\Users\ComputerLab4PC1\source\repos\05_Lab_Gernale\05_Lab_Gernale\bin\Debug\05_Lab_Gernale.pdb
+C:\Users\ComputerLab4PC1\source\repos\05_Lab_Gernale\05_Lab_Gernale\obj\Debug\05_Lab_Gernale.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\05_Lab_Gernale\05_Lab_Gernale\obj\Debug\_05_Lab_Gernale.FrmFileName.resources
+C:\Users\ComputerLab4PC1\source\repos\05_Lab_Gernale\05_Lab_Gernale\obj\Debug\_05_Lab_Gernale.FrmLab1.resources
+C:\Users\ComputerLab4PC1\source\repos\05_Lab_Gernale\05_Lab_Gernale\obj\Debug\_05_Lab_Gernale.FrmRegistration.resources
+C:\Users\ComputerLab4PC1\source\repos\05_Lab_Gernale\05_Lab_Gernale\obj\Debug\_05_Lab_Gernale.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\05_Lab_Gernale\05_Lab_Gernale\obj\Debug\05_Lab_Gernale.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\05_Lab_Gernale\05_Lab_Gernale\obj\Debug\05_Lab_Gernale.exe
+C:\Users\ComputerLab4PC1\source\repos\05_Lab_Gernale\05_Lab_Gernale\obj\Debug\05_Lab_Gernale.pdb
+C:\Users\ComputerLab4PC1\source\repos\05_Lab_Gernale\05_Lab_Gernale\obj\Debug\_05_Lab_Gernale.FrmOpenTextFile.resources
+C:\Users\ComputerLab4PC1\source\repos\05_Lab_Gernale\05_Lab_Gernale\obj\Debug\_05_Lab_Gernale.FrmStudentRecord.resources
